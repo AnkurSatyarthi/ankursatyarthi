@@ -29,9 +29,47 @@
 
 **Answer :** There were total of *277* passengers.
 
-**Question. 7 :** How many third class passangers were travelling ?
+**Question. 7 :** How many third class passengers were travelling ?
 
-**Answer :** There were total of *709* passangers.
+**Answer :** There were total of *709* passengers.
+
+
+**Question. 8 :** How many passengers didn't gave their age and gender details ?
+
+**Answer :** There were total of *263* passengers who didn't gave their age and gender details properly.
+
+
+**Question. 9 :** How many passengers gave their age and gender details properly ?
+
+**Answer :** There were total of *1046* passengers who gave their age and gender details properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- # Titanic Passangers Predictions -->
