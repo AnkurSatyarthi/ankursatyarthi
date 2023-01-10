@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
+<!--
 - 💬 Ask me about R&D.
 - 📫 How to reach me: via Linkedin.
+-->
 <!--
 - 😄 Pronouns:
 -->
