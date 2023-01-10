@@ -1,29 +1,37 @@
-# Titanic Passanger Analysis
+# Titanic Passenger Analysis
 ## EXPLORE THE DATA
 ### Overview
-**Question. 1 :** How many passangers were in titanic ?
+**Question. 1 :** How many passengers were in titanic ?
 
-**Answer :** There were *1309* passangers of total.
-
-
-**Question. 2 :** How many male passangers were in titanic ?
-
-**Answer :** There were *843* male passangers of total.
+**Answer :** There were *1309* passengers of total.
 
 
-**Question. 3 :** How many female passangers were in titanic ?
+**Question. 2 :** How many male passengers were in titanic ?
 
-**Answer :** There were *843* female passangers of total.
+**Answer :** There were *843* male passengers of total.
 
 
-**Question. 4 :** Who were the first passanger age of 30 in passangers list male or female, and survived or not?
+**Question. 3 :** How many female passengers were in titanic ?
+
+**Answer :** There were *843* female passengers of total.
+
+
+**Question. 4 :** Who were the first passenger age of 30 in passengers list male or female, and survived or not?
 
 **Answer :** *Male* and he didn't *survived*.
 
 
-**Question. 5 :** How many first class passangers were travelling ?
+**Question. 5 :** How many first class passengers were travelling ?
 
-**Answer :** There were total of *323* passangers.
+**Answer :** There were total of *323* passengers.
+
+**Question. 6 :** How many second class passengers were travelling ?
+
+**Answer :** There were total of *277* passengers.
+
+**Question. 7 :** How many third class passangers were travelling ?
+
+**Answer :** There were total of *709* passangers.
 
 
 <!-- # Titanic Passangers Predictions -->
