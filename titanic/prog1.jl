@@ -16,11 +16,10 @@ last(titanic, 5)
 unique(titanic)
 unique(titanic, [:pclass, :survived])
 filter(:sex => ==("male"), titanic)
-filter(row -> row.sex == "male", titanic)
 # subset(titanic, :survived)
-subset(titanic, :sex => x -> x .== "male")
-titanic[6:10, :]
-titanic[titanic.sex .== "male", :]
+# subset(titanic, :sex => x -> x .== "male")
+# titanic[6:10, :]
+# titanic[titanic.sex .== "male", :]
 titanic[findfirst(==(30), titanic.age), :]
 titanic[findall(==(1), titanic.pclass), :]
 select(titanic, :sex)

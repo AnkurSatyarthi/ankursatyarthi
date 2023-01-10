@@ -33,38 +33,12 @@ sort(titanic, [:age, order(:sibsp, rev = true)])
 names(titanic)
 propertynames(titanic)
 columnindex(titanic, "sex")
-dropmissing(titanic)
 dropmissing(titanic, [:age, :sex])
-allowmissing(titanic)
 allowmissing(titanic, :sibsp)
-disallowmissing(titanic)
-disallowmissing(titanic, :sibsp)
+# disallowmissing(titanic, :survived)
+# disallowmissing(titanic, :sibsp)
 completecases(titanic)
 completecases(titanic, [:age, :sex])
-# using RollingFunctions
-# select(titanic, :x => cumsum)
-# select(titanic, :x => cumprod)
-# select(titanic, :x => v -> accumulate(min, v))
-# select(titanic, :x => v -> accumulate(max, v))
-# combine(titanic, :age => (x -> mean(skipmissing(x))))
-# select(titanic, :x => v -> cumsum(v) ./ (1:length(v)))
-# select(titanic, :x => (v -> runmean(v, n)))
-# select(titanic, :x => (v -> runmedian(v, n)))
-# select(titanic, :x => (v -> runmin(v, n)))
-# select(titanic, :x => (v -> runmax(v, n)))
-# using StatsBase
-# select(titanic, :x => ordinalrank)
-# select(df, :x => competerank)
-# select(df, :x => denserank)
-# select(df, :x => tiedrank)
-# using ShiftedArrays
-# select(df, :x => lead)
-# select(df, :x => lag)
-# using Pipe
-# @pipe df |>
-# filter(:sex => ==("male"), _) |>
-# groupby(_, :pclass) |>
-# combine(_, :age => mean)
 
 
 

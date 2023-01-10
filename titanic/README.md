@@ -25,9 +25,11 @@
 
 **Answer :** There were total of *323* passengers.
 
+
 **Question. 6 :** How many second class passengers were travelling ?
 
 **Answer :** There were total of *277* passengers.
+
 
 **Question. 7 :** How many third class passengers were travelling ?
 
@@ -43,25 +45,10 @@
 
 **Answer :** There were total of *1046* passengers who gave their age and gender details properly.
 
+<!-- 
+**Question. 10 :**  ?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Answer :**  -->
 
 
 
