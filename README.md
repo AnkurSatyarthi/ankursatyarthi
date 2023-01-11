@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-<!--
-- 🔭 I’m currently working on some 
--->
+
+- 🔭 I’m currently working on some Titanic Passengers Analysis using Julia
+
 - 🌱 I’m currently learning Research and Development, Data Analysis, Data Science, AI/ML, etc.
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: I'm a calm person who is trying to enjoy every moment of his life with his loved ones.
 
-Welcome to the ankursatyarthi wiki!
++ **Project** : *Titanic Passengers Analysis*
++ **Author** : *Ankur Satyarthi*
++ **Programming Language** : *Julia*
++ **Used Packages** : *DataFrames, CSV*
++ **GitHub** : *Ankur Satyarthi*
++ **GitHub Link** : *https://github.com/AnkurSatyarthi/ankursatyarthi/tree/main/titanic*
++ **LinkedIn** : *https://www.linkedin.com/in/ankurindiaofficial*
 
 # Titanic Passenger Analysis Julia Documentation
 
@@ -144,3 +150,12 @@ Welcome to the ankursatyarthi wiki!
 <!-- # Titanic Passangers Predictions -->
 
 <!-- Ref: DataFrames -->
+
+
++ **Project** : *Titanic Passengers Analysis*
++ **Author** : *Ankur Satyarthi*
++ **Programming Language** : *Julia*
++ **Used Packages** : *DataFrames, CSV*
++ **GitHub** : *Ankur Satyarthi*
++ **GitHub Link** : *https://github.com/AnkurSatyarthi/ankursatyarthi/tree/main/titanic*
++ **LinkedIn** : *https://www.linkedin.com/in/ankurindiaofficial*
