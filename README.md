@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on some Titanic Passengers Analysis using Julia Development Software for windows and Documentations
+- 🔭 I’m currently working on some Titanic Passengers Analysis using Julia Development Software for windows and Documentations will be available very soon
 
 - 🌱 I’m currently learning Research and Development, Data Analysis, Data Science, AI/ML, etc.
 <!--
