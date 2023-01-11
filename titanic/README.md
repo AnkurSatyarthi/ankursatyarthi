@@ -13,7 +13,7 @@
 
 **Question. 3 :** How many female passengers were in titanic ?
 
-**Answer :** There were *843* female passengers of total.
+**Answer :** There were *466* female passengers of total.
 
 
 **Question. 4 :** Who were the first passenger age of 30 in passengers list male or female, and survived or not?
