@@ -1,40 +1,65 @@
-# Titanic Passenger Analysis
+Welcome to the ankursatyarthi wiki!
+
+# Titanic Passenger Analysis Julia Documentation
+
 ## EXPLORE THE DATA
 
-**Question. 1 :** How many passengers were in titanic ?          |
+**Question. 1 :** How many passengers were in titanic ?          
 
 **Answer :** There were *1309* passengers of total.
+
+    using DataFrames, CSV
+
+    function download_titantic()
+
+        url = "https://www.openml.org/data/get_csv/16826755/phpMYEkMl"
+
+        return DataFrame(CSV.File(download(url); missingstring = "?"))
+
+    end
+
+    titanic = download_titantic()
 
 
 **Question. 2 :** How many male passengers were in titanic ?
 
 **Answer :** There were *843* male passengers of total.
 
-
+    filter(:sex => ==("male"), titanic)
+    
 **Question. 3 :** How many female passengers were in titanic ?
 
 **Answer :** There were *466* female passengers of total.
+
+    filter(:sex => ==("female"), titanic)
 
 
 **Question. 4 :** Who were the first passenger age of 30 in passengers list male or female, and survived or not?
 
 **Answer :** *Male* and he didn't *survived*.
 
+    titanic[findfirst(==(30), titanic.age), :]
+
 
 **Question. 5 :** How many first class passengers were travelling ?
 
 **Answer :** There were total of *323* passengers.
+
+    titanic[findall(==(1), titanic.pclass), :]
 
 
 **Question. 6 :** How many second class passengers were travelling ?
 
 **Answer :** There were total of *277* passengers.
 
+    titanic[findall(==(2), titanic.pclass), :]
+
 
 **Question. 7 :** How many third class passengers were travelling ?
 
 **Answer :** There were total of *709* passengers.
 
+    titanic[findall(==(3), titanic.pclass), :]
 
 **Question. 8 :** How many passengers didn't gave their age and gender details ?
 
