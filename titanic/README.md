@@ -1,15 +1,15 @@
 # Titanic Passenger Analysis
-## EXPLORE THE DATA
-### Overview
-**Question. 1 :** How many passengers were in titanic ?
-
-**Answer :** There were *1309* passengers of total.
-
-
-**Question. 2 :** How many male passengers were in titanic ?
-
-**Answer :** There were *843* male passengers of total.
-
+|-----------------------------------------------------------------|
+|## EXPLORE THE DATA                                              |
+|_________________________________________________________________|
+|**Question. 1 :** How many passengers were in titanic ?          |
+|                                                                 |
+|**Answer :** There were *1309* passengers of total.              |
+|                                                                 |
+|**Question. 2 :** How many male passengers were in titanic ?     |
+|                                                                 |
+|**Answer :** There were *843* male passengers of total.          |
+|-----------------------------------------------------------------|
 
 **Question. 3 :** How many female passengers were in titanic ?
 
