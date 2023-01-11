@@ -50,20 +50,20 @@
 
 **Answer :** We have various types of data about passengers such as:
 |----------------------------------------------------------------------|
-|+ *pclass(Passenger Class)*                                           |
-|+ *survived(Passengers who has survived and who has not)*             |
-|+ *name(Passenger names)*                                             |
-|+ *sex(Passenger's Gender)*                                           |
-|+ *age(Passenger's Age)*                                              |
-|+ *sibsp*                                                             |
-|+ *parch*                                                             |
-|+ *ticket(Passenger's Ticket)*                                        |
-|+ *fare(Passenger's ticket price)*                                    |
-|+ *cabin(Passenger's Cabin Number)*                                   |
-|+ *embarked*                                                          |
-|+ *boat*                                                              |
-|+ *body*                                                              |
-|+ *home.dest(Passengers destination)*                                 |
+|- *pclass(Passenger Class)*                                           |
+|- *survived(Passengers who has survived and who has not)*             |
+|- *name(Passenger names)*                                             |
+|- *sex(Passenger's Gender)*                                           |
+|- *age(Passenger's Age)*                                              |
+|- *sibsp*                                                             |
+|- *parch*                                                             |
+|- *ticket(Passenger's Ticket)*                                        |
+|- *fare(Passenger's ticket price)*                                    |
+|- *cabin(Passenger's Cabin Number)*                                   |
+|- *embarked*                                                          |
+|- *boat*                                                              |
+|- *body*                                                              |
+|- *home.dest(Passengers destination)*                                 |
 |______________________________________________________________________|
 
 <!-- 
