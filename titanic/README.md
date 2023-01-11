@@ -49,7 +49,6 @@
 **Question. 10 :** What kind of data do we have about passengers ?
 
 **Answer :** We have various types of data about passengers such as:
-
 |-------------------------------------------------------------------|
 |1.  *pclass(Passenger Class)*                                      |
 |2.  *survived(Passengers who has survived and who has not)*        |
