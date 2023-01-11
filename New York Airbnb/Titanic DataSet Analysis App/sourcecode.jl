@@ -16,6 +16,20 @@ function titanic_passenger_analysis()
         if input == ""
             break
         end
-        if input == 1
+        try
+            if input == 1
+            
+        catch
+            if input == 1    
+            titanic = download_titantic()
+            print(titanic)
+        end
+        # try
+            
+        # catch
+
+        
+        # finally
+        # end
     end
 end
