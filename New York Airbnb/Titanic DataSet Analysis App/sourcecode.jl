@@ -23,6 +23,7 @@ function titanic_passenger_analysis()
             if input == 1    
             titanic = download_titantic()
             print(titanic)
+            println("There were 1309 passengers of total.")
         end
         # try
             
