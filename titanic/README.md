@@ -1,5 +1,3 @@
-Welcome to the ankursatyarthi wiki!
-
 # Titanic Passenger Analysis Julia Documentation
 
 ## EXPLORE THE DATA
