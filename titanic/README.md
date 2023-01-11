@@ -1,36 +1,26 @@
 # Titanic Passenger Analysis
 ## EXPLORE THE DATA
-|_____________________________________________________________________________________________________________________________________________________|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Question. 1 :** How many passengers were in titanic ?                                                                                              |
 |**Answer :** There were *1309* passengers of total.                                                                                                  |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 2 :** How many male passengers were in titanic ?                                                                                         |
 |**Answer :** There were *843* male passengers of total.                                                                                              |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 3 :** How many female passengers were in titanic ?                                                                                       |
 |**Answer :** There were *843* female passengers of total.                                                                                            |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 4 :** Who were the first passenger age of 30 in passengers list male or female, and survived or not ?                                    |
 |**Answer :** *Male* and he didn't *survived*.                                                                                                        |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 5 :** How many first class passengers were travelling ?                                                                                  |
 |**Answer :** There were total of *323* passengers.                                                                                                   |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 6 :** How many second class passengers were travelling ?                                                                                 |
 |**Answer :** There were total of *277* passengers.                                                                                                   |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 7 :** How many third class passengers were travelling ?                                                                                  |
 |**Answer :** There were total of *709* passengers.                                                                                                   |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 8 :** How many passengers didn't gave their age and gender details ?                                                                     |
 |**Answer :** There were total of *263* passengers who didn't gave their age and gender details properly.                                             |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 9 :** How many passengers gave their age and gender details properly ?                                                                   |
 |**Answer :** There were total of *1046* passengers who gave their age and gender details properly.                                                   |
-|_____________________________________________________________________________________________________________________________________________________|
 |**Question. 10 :** What kind of data do we have about passengers ?                                                                                   |
 |**Answer :** We have various types of data about passengers such as:                                                                                 |
-|_____________________________________________________________________________________________________________________________________________________|
 |1.  *pclass(Passenger Class)*                                                                                                                        |
 |2.  *survived(Passengers who has survived and who has not)*                                                                                          |
 |3.  *name(Passenger names)*                                                                                                                          |
