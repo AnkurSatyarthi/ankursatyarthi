@@ -45,18 +45,51 @@
 
 **Answer :** There were total of *1046* passengers who gave their age and gender details properly.
 
+
+**Question. 10 :** What kind of data do we have about passengers ?
+
+**Answer :** We have various types of data about passengers such as:
+
++ pclass(Passenger Class)
++ survived(Passengers who has survived and who has not)
++ name(Passenger names)
++ sex(Passenger's Gender)
++ age(Passenger's Age)
++ sibsp
++ parch
++ ticket(Passenger's Ticket)
++ fare(Passenger's ticket price)
++ cabin(Passenger's Cabin Number)
++ embarked
++ boat
++ body
++ home.dest(Passengers destination)
+
+
 <!-- 
-**Question. 10 :**  ?
+**Question. 10 :** Name all the variables in the dataset which we have ?
 
-**Answer :**  -->
+**Answer :** All the variables are :
 
++ pclass
++ survived
++ name
++ sex
++ age
++ sibsp
++ parch
++ ticket
++ fare
++ cabin
++ embarked
++ boat
++ body
++ home.dest
+ -->
+<!-- 
+**Question. 10 :** Name all the necessary features and target variables ?
 
-
-
-
-
-
-
+**Answer :** . -->
 
 
 <!-- # Titanic Passangers Predictions -->

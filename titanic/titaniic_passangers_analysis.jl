@@ -1,8 +1,8 @@
-using DataFrames, CSV, TypedTables, GLM, Plots
-# function download_titantic()
-#     url = "https://www.openml.org/data/get_csv/16826755/phpMYEkMl"
-#     return DataFrame(CSV.File(download(url); missingstring = "?"))
-# end
+using DataFrames, CSV, TypedTables, GLM, Plots, Makie
+function download_titantic()
+    url = "https://www.openml.org/data/get_csv/16826755/phpMYEkMl"
+    return DataFrame(CSV.File(download(url); missingstring = "?"))
+end
 titanic = download_titantic()
 # titanic = DataFrame(CSV.Files())
 # vscodedisplay(titanic)
@@ -39,6 +39,16 @@ allowmissing(titanic, :sibsp)
 # disallowmissing(titanic, :sibsp)
 completecases(titanic)
 completecases(titanic, [:age, :sex])
+filter(:age => ==("30")&("50"), titanic)
+age = titanic.age
+sex = titanic.sex
+fare = titanic.fare
+cabin = titanic.cabin
+
+names(titanic)
+plot()
+
+
 
 
 
