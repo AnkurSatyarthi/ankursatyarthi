@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: I'm a calm person who is trying to enjoy every moment of his life with his loved ones.
 
-+ **Project** : *Titanic Passengers Analysis*
++ **Project** : *Titanic Passengers Analysis Julia Documentation*
 + **Author** : *Ankur Satyarthi*
 + **Programming Language** : *Julia*
 + **Used Packages** : *DataFrames, CSV*
