@@ -49,22 +49,22 @@
 **Question. 10 :** What kind of data do we have about passengers ?
 
 **Answer :** We have various types of data about passengers such as:
-|----------------------------------------------------------------------|
-|- *pclass(Passenger Class)*                                           |
-|- *survived(Passengers who has survived and who has not)*             |
-|- *name(Passenger names)*                                             |
-|- *sex(Passenger's Gender)*                                           |
-|- *age(Passenger's Age)*                                              |
-|- *sibsp*                                                             |
-|- *parch*                                                             |
-|- *ticket(Passenger's Ticket)*                                        |
-|- *fare(Passenger's ticket price)*                                    |
-|- *cabin(Passenger's Cabin Number)*                                   |
-|- *embarked*                                                          |
-|- *boat*                                                              |
-|- *body*                                                              |
-|- *home.dest(Passengers destination)*                                 |
-|______________________________________________________________________|
+|-------------------------------------------------------------------|
+|1.  *pclass(Passenger Class)*                                      |
+|2.  *survived(Passengers who has survived and who has not)*        |
+|3.  *name(Passenger names)*                                        |
+|4.  *sex(Passenger's Gender)*                                      |
+|5.  *age(Passenger's Age)*                                         |
+|6.  *sibsp*                                                        |
+|7.  *parch*                                                        |
+|8.  *ticket(Passenger's Ticket)*                                   |
+|9.  *fare(Passenger's ticket price)*                               |
+|10. *cabin(Passenger's Cabin Number)*                              |
+|11. *embarked*                                                     |
+|12. *boat*                                                         |
+|13. *body*                                                         |
+|14. *home.dest(Passengers destination)*                            |
+|___________________________________________________________________|
 
 <!-- 
 **Question. 10 :** Name all the variables in the dataset which we have ?
