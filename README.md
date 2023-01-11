@@ -152,7 +152,7 @@ Here are some ideas to get you started:
 <!-- Ref: DataFrames -->
 
 
-+ **Project** : *Titanic Passengers Analysis*
++ **Project** : *Titanic Passengers Analysis Julia Documentation*
 + **Author** : *Ankur Satyarthi*
 + **Programming Language** : *Julia*
 + **Used Packages** : *DataFrames, CSV*
