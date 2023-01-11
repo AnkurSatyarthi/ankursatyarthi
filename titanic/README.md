@@ -1,6 +1,6 @@
 # Titanic Passenger Analysis
 |-----------------------------------------------------------------|
-|## EXPLORE THE DATA                                              |
+## EXPLORE THE DATA
 |_________________________________________________________________|
 |**Question. 1 :** How many passengers were in titanic ?          |
 |                                                                 |
