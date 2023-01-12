@@ -1,4 +1,5 @@
 module HelloApp
+
     function helloapp()
         while true
             println("Hello, world!\n")
@@ -15,6 +16,7 @@ module HelloApp
         end
     end
     function julia_main()
-        helloapp
+        helloapp()
     end
+
 end

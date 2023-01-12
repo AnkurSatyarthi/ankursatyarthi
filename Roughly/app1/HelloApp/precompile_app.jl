@@ -1,3 +1,3 @@
 using HelloApp
 
-Hello.julia_main()
+HelloApp.julia_main()
