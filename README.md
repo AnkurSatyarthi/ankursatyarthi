@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### This repo is only created for education purposes
+<!-- ### This repo is only created for education purposes -->
 
 <!--
 **AnkurSatyarthi/ankursatyarthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
