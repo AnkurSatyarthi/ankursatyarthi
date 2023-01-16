@@ -4,8 +4,6 @@ function download_titantic()
     return DataFrame(CSV.File(download(url); missingstring = "?"))
 end
 titanic = download_titantic()
-# titanic = DataFrame(CSV.Files())
-# vscodedisplay(titanic)
 describe(titanic)
 describe(titanic, extrema => :extrema)
 first(titanic.name, 5)
