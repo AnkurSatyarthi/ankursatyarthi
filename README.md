@@ -9,7 +9,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Online Sales Dataset Popular Market place Data Analysis and Total Revenue Predictions.
+- 🔭 I’m currently working on Projects
+  - Police Arrest from 2021-2023
+  - Online Sales Dataset Popular Market place Data Analysis and Total Revenue Predictions.
+  - 
 
 
 - 🌱 I’m currently learning Research and Development, Data Analysis, Data Science, AI/ML, etc.
